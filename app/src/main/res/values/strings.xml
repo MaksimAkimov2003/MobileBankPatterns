@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MobileBankPatterns</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="entrance">Вход</string>
+    <string name="main">Мои счета</string>
+    <string name="open_account">Открыть счет</string>
+    <string name="take_loan">Взять кредит</string>
+    <string name="add_account">Пополнить\nсчет</string>
+    <string name="add_money">Перевести\nденьги</string>
+    <string name="close_account">Закрыть\nсчет</string>
+    <string name="actions">Действия</string>
+    <string name="operations_on_account">Операции по счету</string>
+    <string name="add">Пополнение</string>
+    <string name="transfer">Перевод</string>
+    <string name="pay_loan">Платеж по кредиту</string>
+    <string name="pay_full">Погасить\nполностью</string>
+    <string name="pay_partitial">Погасить\nчастично</string>
+    <string name="credit_detail_account_title">Откуда списываем платежи</string>
+    <string name="years">годовых</string>
+</resources>
